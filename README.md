@@ -1,5 +1,7 @@
 # 📝 Smart Textarea
 
+**This project is part of my Vanilla JavaScript Mini Projects series, where I'm recreating commonly used frontend components from scratch to strengthen my understanding of JavaScript, DOM manipulation, performance optimisation, and reusable UI design.**
+
 A Twitter-inspired smart textarea built with **HTML, CSS, and Vanilla JavaScript**.
 
 This mini project recreates some of the core features of Twitter's post composer, including live character counting, overflow detection, progress indicator, mention/hashtag formatting, and dynamic post rendering.
